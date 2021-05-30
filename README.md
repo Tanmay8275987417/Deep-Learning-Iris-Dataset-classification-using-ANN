@@ -2,7 +2,7 @@
 
 ## Information about Data
 
-The Iris dataset has 150 observations or Rows and 5 atttibutes or Columns of Iris Flowers.
+The IRIS dataset has 150 observations or Rows and 5 atttibutes or Columns of Iris Flowers.
 
 First four columns are - **Sepal Length, Sepal Width , Petal Length, Petal Width**, all are in cm.
 
