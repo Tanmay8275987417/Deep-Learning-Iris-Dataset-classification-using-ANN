@@ -7,13 +7,12 @@ The Iris dataset has 150 observations or Rows and 5 atttibutes or Columns of Iri
 First four columns are - **Sepal Length, Sepal Width , Petal Length, Petal Width**, all are in cm.
 
 
----
 
 
 The Last column is containing the Classes - **['setosa' 'versicolor' 'virginica']**
 
 
----
+
 
 
 
