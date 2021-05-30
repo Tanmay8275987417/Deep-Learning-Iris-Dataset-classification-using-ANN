@@ -1,6 +1,6 @@
 # SMS-Spam-Detection
 
-# Information about Data
+## Information about Data
 
 The Iris dataset has 150 observations or Rows and 5 atttibutes or Columns of Iris Flowers.
 
