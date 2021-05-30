@@ -1,4 +1,4 @@
-# SMS-Spam-Detection
+# **Classification of IRIS Flower using Artifical Neural Network**
 
 ## Information about Data
 
