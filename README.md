@@ -1,6 +1,6 @@
 # **Classification of IRIS Flower using Artifical Neural Network**
 
-## Information about Data
+## Information about Project
 
 The IRIS dataset has 150 observations or Rows and 5 atttibutes or Columns of Iris Flowers.
 
@@ -8,12 +8,12 @@ First four columns are - **Sepal Length, Sepal Width , Petal Length, Petal Width
 
 
 
-
 The Last column is containing the Classes - **['setosa' 'versicolor' 'virginica']**
 
 
 
-
-
-
 **Classes are - [ 0 , 1 , 2 ] instead of ['setosa' 'versicolor' 'virginica'].**
+
+
+
+Here  I have build sequential model of *Artificial Neural Network* 
