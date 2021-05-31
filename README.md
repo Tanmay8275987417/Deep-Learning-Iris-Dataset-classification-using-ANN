@@ -22,3 +22,5 @@ Here  I have build sequential model of *Artificial Neural Network* with 4 inputs
 2nd hidden layer consist of 50 Neuron and relu activation function and;
 
 Output layer having 3 output followed by softmax activation function.
+
+![image](https://user-images.githubusercontent.com/45824743/120195290-381a3500-c23c-11eb-8b99-a3643e2be7dd.png)
