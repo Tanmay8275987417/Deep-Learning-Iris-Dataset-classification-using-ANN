@@ -23,6 +23,10 @@ Here  I have build sequential model of *Artificial Neural Network* with 4 inputs
 
 Output layer having 3 output followed by softmax activation function.
 
+After building the model used adam Optimizer to change the attributes of th neural Network such as weights and learning rate to resuced the Losses.
+
+### Results
+
 **Finding out the accuracy and f1 score:**
 
 ![image](https://user-images.githubusercontent.com/45824743/120195521-87f8fc00-c23c-11eb-8376-f1fbfea6afaf.png)
